@@ -1,5 +1,5 @@
-olander's dotfiles
-==================
+Joakim Andersson's dotfiles
+===========================
 
 Quick and dirty fork from [thoughtbot/dotfiles][origin] to better keep track of
 my dotfiles. I should probably use the [the `*.local` convention][dot-local]
@@ -25,7 +25,7 @@ Install
 
 Clone onto my computer:
 
-    git clone https://github.com/tomasolander/dotfiles.git
+    git clone https://github.com/Gherks/dotfiles.git
 
 (And remember to [keep my fork
 updated](http://robots.thoughtbot.com/keeping-a-github-fork-updated)).
@@ -52,7 +52,7 @@ my configuration files installed in a rather patchwork manner.
 
 Run the following in a PowerShell with administrative rights:
 
-    git clone https://github.com/tomasolander/dotfiles.git $HOME\dotfiles
+    git clone https://github.com/Gherks/dotfiles.git $HOME\dotfiles
     cmd /c mklink _vimrc "$HOME\dotfiles\vimrc"
     cmd /c mklink _gvimrc "$HOME\dotfiles\gvimrc"
     cmd /c mklink .vimrc.bundles "$HOME\dotfiles\vimrc.bundles"

@@ -28,7 +28,7 @@
 [include]
   path = ~/.gitconfig.local
 [user]
-  email = tomasolander@gmail.com
-  name = Tomas Olander
+  email = nils-joakim.andersson@hotmail.com
+  name = Joakim Andersson
 [credential]
   helper = cache --timeout=3600
